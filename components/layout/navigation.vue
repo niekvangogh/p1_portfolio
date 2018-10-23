@@ -3,7 +3,7 @@
     <b-container>
 
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
-      <b-navbar-brand href="#">Media portfolio</b-navbar-brand>
+      <b-navbar-brand to="/">Media portfolio</b-navbar-brand>
 
       <b-collapse is-nav id="nav_collapse">
 
@@ -13,8 +13,15 @@
             <template slot="button-content">
               Portfolio
             </template>
-            <b-dropdown-item href="#">Profile</b-dropdown-item>
-            <b-dropdown-item href="#">Signout</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/week_1">Week 1</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/week_2">Week 2</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/week_3">Week 3</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/week_4">Week 4</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/week_5">Week 5</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/week_6">Week 6</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/week_7">Week 7</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/week_8">Week 8</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/week_9">Week 9</b-dropdown-item>
           </b-nav-item-dropdown>
         </b-navbar-nav>
       </b-collapse>
