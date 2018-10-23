@@ -13,15 +13,15 @@
             <template slot="button-content">
               Portfolio
             </template>
-            <b-dropdown-item to="/portfolio/week/1">Week 1</b-dropdown-item>
-            <b-dropdown-item to="/portfolio/week/2">Week 2</b-dropdown-item>
-            <b-dropdown-item to="/portfolio/week/3">Week 3</b-dropdown-item>
-            <b-dropdown-item to="/portfolio/week/4">Week 4</b-dropdown-item>
-            <b-dropdown-item to="/portfolio/week/5">Week 5</b-dropdown-item>
-            <b-dropdown-item to="/portfolio/week/6">Week 6</b-dropdown-item>
-            <b-dropdown-item to="/portfolio/week/7">Week 7</b-dropdown-item>
-            <b-dropdown-item to="/portfolio/week/8">Week 8</b-dropdown-item>
-            <b-dropdown-item to="/portfolio/week/9">Week 9</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/1">Week 1</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/2">Week 2</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/3">Week 3</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/4">Week 4</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/5">Week 5</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/6">Week 6</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/7">Week 7</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/8">Week 8</b-dropdown-item>
+            <b-dropdown-item to="/portfolio/9">Week 9</b-dropdown-item>
           </b-nav-item-dropdown>
         </b-navbar-nav>
       </b-collapse>
