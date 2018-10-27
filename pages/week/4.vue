@@ -14,9 +14,11 @@
         werken in Javascript.
       </p>
       <p>
-        <em>Note: Ik zou graag de website in deze website geimplementeerd hebben, maar dit is gedaan via 2 heel erg
-          verschillende systemen en door het framework wat ik nu gebruik, is het erg veel werk om alles hierin te
-          implementeren.</em>
+        <em>
+          Note: Ik zou graag de website die ik heb gemaakt voor de opdracht in deze website geimplementeerd hebben,
+          maar dit is gedaan via 2 heel erg verschillende systemen en door het framework wat ik nu gebruik, is het erg
+          veel werk om alles hierin te implementeren.
+        </em>
       </p>
     </b-col>
     <b-col lg="6">
