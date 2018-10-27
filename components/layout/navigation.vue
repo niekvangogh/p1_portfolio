@@ -18,7 +18,6 @@
             <b-dropdown-item to="/week/5">Week 5</b-dropdown-item>
             <b-dropdown-item to="/week/6">Week 6</b-dropdown-item>
             <b-dropdown-item to="/week/7">Week 7</b-dropdown-item>
-            <b-dropdown-item to="/week/8">Week 8</b-dropdown-item>
           </b-nav-item-dropdown>
           <b-nav-item to="/geleerd">Wat heb ik geleerd?</b-nav-item>
           <b-nav-item to="/verder">Hoe wil ik nu verder?</b-nav-item>
