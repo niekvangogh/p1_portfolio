@@ -26,8 +26,8 @@
         <li>Deze website is VOLLEDIG responsive en mobiel vriendelijk.</li>
         <li>Deze website is SEO geoptimaliseerd (Search Engine Optimalisation)</li>
         <li>Deze website is gemaakt in een Nuxt.js (een framework) en is verschrikkelijk snel.</li>
-        <!--  (TODO ADD LINK TO SEO CHECKER) -->
-      </ul>
+        <li>Deze website is heeft een geavanceerd routing systeem (url)</li>
+         </ul>
     </b-col>
     <b-col lg="6">
       <h2>Week 7</h2>
@@ -35,6 +35,10 @@
         In week 7 heb ik een start gemaakt aan de website, niet veel. Ik heb die dag het meest klasgenoten geholpen met
         hun websites, zodat ze verder konden. Ik heb dit gedaan tot ongeveer 14.00 en ben zelf toen verder gegaan aan
         mijn website.
+      </p>
+      <p>
+        Het design van de website heb ik erg abstract gehouden met een gebruik van Bootstrap om het makkelijk en
+        overzichtelijk te houden.
       </p>
     </b-col>
     <b-col lg="6">
@@ -76,7 +80,6 @@
   export default {
     data() {
       return {
-        branches: ['master'],
         currentBranch: 'master',
         commits: null,
         apiURL: 'https://api.github.com/repos/nivyox/p1_portfolio/commits?per_page=100'
