@@ -21,7 +21,7 @@
       </b-col>
       <b-col md="6">
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pkbI7l9NBto"
-                allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                allow="autoplay; encrypted-media" allowfullscreen class="w-100"></iframe>
       </b-col>
     </b-row>
   </div>

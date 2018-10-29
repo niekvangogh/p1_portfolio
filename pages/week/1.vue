@@ -18,7 +18,7 @@
       </p>
     </b-col>
     <b-col md="6">
-      <video width="500" controls class="mt-2 mb-2">
+      <video width="500" controls class="mt-2 mb-2 w-100">
         <source src="~/assets/videos/yip_stalken.mp4" type="video/mp4">
         <em>Your browser doesn't support video tags</em>
       </video>

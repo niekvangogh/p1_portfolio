@@ -22,7 +22,7 @@
       </p>
     </b-col>
     <b-col lg="6">
-      <img src="~/assets/images/big_data.png" alt="foto van de website"/>
+      <img class="w-100" src="~/assets/images/big_data.png" alt="foto van de website"/>
     </b-col>
   </b-row>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <b-row>
-    <b-col>
+    <b-col lg="6">
       <h1>No logo</h1>
       <h2>Logo</h2>
       <p>
@@ -19,10 +19,10 @@
         uitgebreid, maar ik heb er genoeg kennis van opgedaan om er vooruit mee te kunnen..
       </p>
     </b-col>
-    <b-col>
-      <img src="~/assets/images/logo.png" width="400" alt="logo"/>
+    <b-col lg="6">
+      <img class="w-100" src="~/assets/images/logo.png" width="400" alt="logo"/>
     </b-col>
-    <b-col md="6">
+    <b-col lg="6">
       <h2>Flyer</h2>
       <p>
         Ik heb na net logo ook een flyer gemaakt voor de bekendmaking van de opening uit te brengen. Als ik eerlijk
@@ -35,7 +35,7 @@
 
     </b-col>
     <b-col md="6">
-      <img class="border border-secondary" src="~/assets/images/flyer.png" width="400" alt="flyer">
+      <img class="border border-secondary w-100" src="~/assets/images/flyer.png" width="400" alt="flyer">
     </b-col>
   </b-row>
 </template>

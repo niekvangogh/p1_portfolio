@@ -20,8 +20,8 @@
             <b-dropdown-item to="/week/7">Week 7</b-dropdown-item>
           </b-nav-item-dropdown>
           <b-nav-item to="/geleerd">Wat heb ik geleerd?</b-nav-item>
-          <b-nav-item to="/verder">Hoe wil ik nu verder?</b-nav-item>
-          <b-nav-item to="/betekenis">Wat betekend deze website voor MIJ?</b-nav-item>
+          <b-nav-item to="/betekenis">Wat betekend deze website voor mij?</b-nav-item>
+          <b-nav-item to="/verder">Hoe verder?</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
     </b-container>
