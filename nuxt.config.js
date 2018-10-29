@@ -1,4 +1,4 @@
-const pkg = require('./package')
+const pkg = require('./package');
 
 module.exports = {
   mode: 'universal',
@@ -7,11 +7,15 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: pkg.name,
+    title: "Media portfolio Niek van Gogh",
     meta: [
       {charset: 'utf-8'},
       {name: 'viewport', content: 'width=device-width, initial-scale=1'},
-      {hid: 'description', name: 'description', content: pkg.description}
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Dit is het media portfolio van Niek van Gogh, ik heb de laatste paar dagen aan gewerkt. Op deze pagina staan de opdrachten die ik de laatste weken heb gemaakt.'
+      }
     ],
     link: [
       {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'}
@@ -38,7 +42,7 @@ module.exports = {
   /*
   ** Nuxt.js modules
   */
-  modules: [,
+  modules: [
     // Doc: https://bootstrap-vue.js.org/docs/
     'bootstrap-vue/nuxt',
     "@nuxtjs/axios"
@@ -55,4 +59,4 @@ module.exports = {
 
     }
   }
-}
+};
