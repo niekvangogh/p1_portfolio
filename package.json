@@ -16,7 +16,7 @@
     "bootstrap-vue": "^1.0.2",
     "chart.js": "^2.9.3",
     "node-sass": "^4.9.4",
-    "nuxt": "^1.4.5",
+    "nuxt": "^2.15.8",
     "sass-loader": "^7.3.1"
   },
   "devDependencies": {
